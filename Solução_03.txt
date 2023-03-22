@@ -1,0 +1,4 @@
+Como desenvolvedor
+
+Eu iria cria uma tela de cadastro conectado ao banco de dados da empresa,
+para registrar os dados fornecidos e posteriomente conceder acesso aos recursos do aplicativo como funcionário.
