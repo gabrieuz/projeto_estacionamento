@@ -1,0 +1,6 @@
+Como desenvolvedor
+
+Eu iria criar uma tela de login ligado ao banco de dados da empresa,
+onde iria ocorrer a validação dos dados fornecidos pelo usuario com os presentes no banco.
+Caso seja validado, o usuario téria acesso ao recursos designados para sua funcção dentro da empresa,
+se não, o usuário seria requerido a apresentar dados válidos/cadastrar seus dados.
