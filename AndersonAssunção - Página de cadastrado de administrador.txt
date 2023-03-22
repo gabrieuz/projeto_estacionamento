@@ -1,0 +1,1 @@
+Criar uma página de cadastro para os administradores do estacionamento e depois fornecer um login e senha para o administrador entrar no sistema.
